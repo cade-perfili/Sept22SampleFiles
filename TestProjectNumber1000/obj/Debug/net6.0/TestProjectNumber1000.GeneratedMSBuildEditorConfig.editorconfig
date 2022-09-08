@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestProjectNumber1000
+build_property.ProjectDir = C:\Users\perfi\OneDrive\Documents\Code Lousivlle (2022\Visual Studio Notes, examples\PluralSight\C# Getting Started\Projects\TestProjectNumber1000\TestProjectNumber1000\
