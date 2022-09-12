@@ -1,9 +1,8 @@
 ﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("LOL! Look at me go");
+Console.WriteLine("Name bruh?");
+string name = Console.ReadLine();
 
+Console.WriteLine("Yeah, and your age?");
+int age = int.Parse(Console.ReadLine());
 
-    static void Silly(string[] args)
-    {
-        Console.WriteLine("Look at this dumb stuff");
-    }
-Console.WriteLine(Silly);
+Console.WriteLine($"{name} is {age} years old, kinda funny in an odd way?");
